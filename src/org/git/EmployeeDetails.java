@@ -14,8 +14,13 @@ public class EmployeeDetails {
         System.out.println("My empDob : 14/03/1994");
 	}
 	
+<<<<<<< HEAD
+	private void empAddress() {
+		System.out.println("Nammakkal");
+=======
 	private void empAge() {
 		System.out.println("My empAge : 28");
+>>>>>>> 9fc462c45884e2b6313e1e5a2acbe7fe31d99fb6
 	}
 	
 public static void main(String[] args) {
