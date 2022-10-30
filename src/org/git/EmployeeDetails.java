@@ -14,6 +14,10 @@ public class EmployeeDetails {
         System.out.println("My empDob : 14/03/1994");
 	}
 	
+	private void empAge() {
+		System.out.println("My empAge : 28");
+	}
+	
 public static void main(String[] args) {
 		
 		EmployeeDetails E= new EmployeeDetails();
